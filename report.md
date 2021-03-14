@@ -8,9 +8,9 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/AleksandraRatush/java-homeworks/issues/1
-* https://github.com/AleksandraRatush/java-homeworks/issues/2
-* https://github.com/AleksandraRatush/java-homeworks/issues/3
+* [Задание 1. Некорректная установка JDK 11 на Macos Big Sur](https://github.com/AleksandraRatush/java-homeworks/issues/1)
+* [Задание 1. Корректные ключи отображаются как невалидные](https://github.com/AleksandraRatush/java-homeworks/issues/2)
+* [Задание 1. Невалидный ключ отображается как валидный](https://github.com/AleksandraRatush/java-homeworks/issues/3)
 
 ## Описание процесса тестирования
 
@@ -20,7 +20,7 @@
 * Руководство использования
 
 
-В качестве тестовых данных использовались ключи из Руководства использования ( https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) 
+В качестве тестовых данных использовались ключи из [Руководства использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) 
 
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998, ожидаемый результат OK
 * 80b427f8-92cd-3aae-ba04-03927fbe17c6, ожидаемый результат OK
